@@ -14,7 +14,7 @@ const Platforms = {
 
 class Messenger {
 	apiDomain = "graph.facebook.com";
-	apiVersion = "15.0";
+	apiVersion = "18.0";
 	apiUrl;
 	platform;
 	pageId;
